@@ -2,5 +2,11 @@
   "id": "lmjp-k4-mika-farn-w",
   "level": 1,
   "image": "w-avatar.png",
-  "thumbnail": "w-thumb.png"
+  "thumbnail": "w-thumb.png",
+  "additionalmedia": [
+    "w-werkstatt.png"
+  ],
+  "states": [
+    "w-highfive.png"
+  ]
 }
