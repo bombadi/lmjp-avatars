@@ -1,0 +1,21 @@
+{
+  "id": "lmjp-k4-nela",
+  "level": 1,
+  "name": "Nela",
+  "description": "«Welche Richtung würdest du nehmen?» Nela klappt ihren Kompass auf. An jeder Weggabelung sucht sie erst einen Hinweis und entscheidet dann.",
+  "secret": "Im Deckel ihres Kompasses spiegelt sich der Himmel. So kann Nela heimlich nach Wolkendrachen Ausschau halten.",
+  "tags": [
+    "Klasse 4",
+    "Abenteuer",
+    "Weiblich"
+  ],
+  "preview": "galerie.png",
+  "additionalmedia": [
+    "wegkreuzung.png"
+  ],
+  "image": "avatar.png",
+  "thumbnail": "profil.png",
+  "states": [
+    "aktion.png"
+  ]
+}

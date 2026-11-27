@@ -1,0 +1,21 @@
+{
+  "id": "lmjp-k4-lio",
+  "level": 1,
+  "name": "Lio",
+  "description": "«Siehst du die kleinen Wege im Blatt?» Lio trägt eine Lupe in der Jackentasche. Mit ihm wird ein einziges Herbstblatt zur Expedition.",
+  "secret": "Lio zeichnet die Adern eines Blatts wie eine Strassenkarte. Den dicksten Weg nennt er Blattallee.",
+  "tags": [
+    "Klasse 4",
+    "Natur",
+    "Männlich"
+  ],
+  "preview": "galerie.png",
+  "additionalmedia": [
+    "blattadern.png"
+  ],
+  "image": "avatar.png",
+  "thumbnail": "profil.png",
+  "states": [
+    "aktion.png"
+  ]
+}
