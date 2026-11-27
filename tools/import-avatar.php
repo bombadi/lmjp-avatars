@@ -85,7 +85,7 @@ try {
             $id = $avatar->id ?? null;
             if (!$avatar) {
                 if (empty($files['previewimage']) || empty($files['additionalmedia'])) {
-                    throw new RuntimeException('Neue Figur benötigt Galerie- und Werkstattbild.');
+                    throw new RuntimeException('Neue Figur benötigt Galerievorschau und Charakterszene.');
                 }
                 $tags = $package['tags'] ?? null;
                 if (!is_array($tags) || !array_is_list($tags) || !$tags) {

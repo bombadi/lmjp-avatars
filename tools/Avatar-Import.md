@@ -13,7 +13,7 @@ Beispiel für ein vollständiges Paket (Dateinamen durch tatsächliche Bilder er
   "secret": "Farn macht den ersten Schritt mit der weissen Pfote.",
   "tags": ["Klasse 4", "Natur", "Weiblich"],
   "preview": "galerie.png",
-  "additionalmedia": ["werkstatt.png"],
+  "additionalmedia": ["charakterszene.png"],
   "image": "ganzkoerper.png",
   "thumbnail": "profil.png",
   "states": ["aktion.png"]
@@ -42,3 +42,5 @@ sudo -u www-data php tools/import-avatar.php /var/www/moodle/config.php PFAD/ZUM
 Nach Prüfung denselben Befehl mit `--apply` am Ende ausführen. Ein bestehendes Level lässt sich mit derselben Nummer aktualisieren. Ein neues Level muss direkt an das letzte anschliessen. Bei vorhandenen Figuren werden Name, Beschreibung, Secret und Tags beibehalten. Ein mitgeliefertes Galeriebild ersetzt die bisherige Vorschau. Zusätzliche Medien und Aktionsbilder werden nach Dateiname ergänzt oder aktualisiert. Andere Dateien in diesen beiden Bereichen bleiben erhalten.
 
 Die drei ursprünglichen Mika-Testfiguren können so einzeln über ihre bestehenden IDs aktualisiert werden. Der alte Testimporter prüft die ursprünglichen Bild-Hashes und meldet nach einem Bildwechsel erwartungsgemäss eine Abweichung.
+
+Die gestalterischen Vorgaben zu Transparenz, Thumbnail und Charakterszene stehen im [Figurenleitfaden](../CHARACTER_GUIDE.md).
