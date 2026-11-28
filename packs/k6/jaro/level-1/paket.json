@@ -1,0 +1,21 @@
+{
+  "id": "lmjp-k6-jaro",
+  "level": 1,
+  "name": "Jaro",
+  "description": "«Wetten, dass wir den nächsten Posten finden?» Jaro läuft gern voraus. Vor jeder Abzweigung hält er kurz an und dreht seine Karte in Laufrichtung.",
+  "secret": "Jaro merkt sich jede Strecke als Rhythmus. Zwei kurze Klopfer bedeuten für ihn: gleich links!",
+  "tags": [
+    "Klasse 6",
+    "Action",
+    "Männlich"
+  ],
+  "preview": "galerie.png",
+  "additionalmedia": [
+    "orientierungslauf.png"
+  ],
+  "image": "avatar.png",
+  "thumbnail": "profil.png",
+  "states": [
+    "aktion.png"
+  ]
+}

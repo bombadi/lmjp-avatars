@@ -1,0 +1,21 @@
+{
+  "id": "lmjp-k6-lou",
+  "level": 1,
+  "name": "Lou",
+  "description": "«Da war ein blauer Blitz!» Lou stellt das Fernglas scharf und wartet am Fluss. Manchmal verrät ein einziger Farbtupfer den Eisvogel.",
+  "secret": "Lou erkennt den Lieblingsast des Eisvogels sogar im Winter. Er sieht aus wie ein schiefes Y.",
+  "tags": [
+    "Klasse 6",
+    "Natur",
+    "Neutral"
+  ],
+  "preview": "galerie.png",
+  "additionalmedia": [
+    "eisvogel.png"
+  ],
+  "image": "avatar.png",
+  "thumbnail": "profil.png",
+  "states": [
+    "aktion.png"
+  ]
+}

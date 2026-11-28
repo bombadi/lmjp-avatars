@@ -1,0 +1,21 @@
+{
+  "id": "lmjp-k6-aya",
+  "level": 1,
+  "name": "Aya",
+  "description": "«Schau durch den Bogen. Was würdest du zeichnen?» Aya sammelt Ansichten von Basel im Skizzenbuch. Ihr Lieblingsplatz liegt dort, wo kaum jemand stehen bleibt.",
+  "secret": "In jeder Zeichnung versteckt Aya einen winzigen Papierflieger zwischen den Linien.",
+  "tags": [
+    "Klasse 6",
+    "Abenteuer",
+    "Weiblich"
+  ],
+  "preview": "galerie.png",
+  "additionalmedia": [
+    "bogenstudie.png"
+  ],
+  "image": "avatar.png",
+  "thumbnail": "profil.png",
+  "states": [
+    "aktion.png"
+  ]
+}

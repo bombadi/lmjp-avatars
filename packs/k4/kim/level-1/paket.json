@@ -1,0 +1,21 @@
+{
+  "id": "lmjp-k4-kim",
+  "level": 1,
+  "name": "Kim",
+  "description": "«Fang mal den roten Streifen!» Kim kippt ein kleines Prisma ins Sonnenlicht. Plötzlich wandert ein Regenbogen über die Wand.",
+  "secret": "Kim hat herausgefunden, in welchem Fenster der Regenbogen genau auf die Türklinke fällt.",
+  "tags": [
+    "Klasse 4",
+    "Glitzer",
+    "Neutral"
+  ],
+  "preview": "galerie.png",
+  "additionalmedia": [
+    "prisma.png"
+  ],
+  "image": "avatar.png",
+  "thumbnail": "profil.png",
+  "states": [
+    "aktion.png"
+  ]
+}
